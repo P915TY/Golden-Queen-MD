@@ -49,7 +49,7 @@ Hi guys, deploy Golden Queen MD bot and enjoy using it.
  <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
  <p>Now deploy.</p>
   
- <a href='https://dashboard.heroku.com/new?template=https://github.com/GoldenQueens/Golden-Queens-MD.git' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+ <a href='https://dashboard.heroku.com/new?template=https://github.com/GoldenQueens/Golden-Queens-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  ### `VERSION: V1`
